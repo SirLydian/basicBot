@@ -127,7 +127,7 @@
     var basicBot = {
         version: "2.0.0",
         status: false,
-        name: "basicBot",
+        name: "MollyBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
@@ -136,7 +136,7 @@
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
         settings: {
-            botName: "basicBot",
+            botName: "Mollybot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             maximumAfk: 120,
