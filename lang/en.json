@@ -69,7 +69,7 @@
     "welcomemsg": "welcome message",
     "songstats": "song statistics",
     "etarestriction": "eta restriction",
-    "activeusersintime": "[@%%NAME%% There have been %%AMOUNT%% users chatting in the past %%TIME%% minutes.",
+    "activeusersintime": "[@%%NAME%%] There have been %%AMOUNT%% users chatting in the past %%TIME%% minutes.",
     "maximumafktimeset": "[@%%NAME%%] Maximum afk duration set to %%TIME%% minutes.",
     "afkstatusreset": "[@%%NAME%%] Reset the afk status of @%%USERNAME%%.",
     "inactivefor": "[@%%NAME%%] @%%USERNAME%% has been inactive for %%TIME%%.",
