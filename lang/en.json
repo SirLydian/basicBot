@@ -40,7 +40,7 @@
     "askskip": "@%%NAME%%, don't ask for skips.",
     "spam": "@%%NAME%%, please don't spam.",
     "roomadvertising": "@%%NAME%%, don't post links to other rooms please.",
-    "adfly": "@%%NAME%%, please change your autowoot program. We suggest PlugCubed: http://plugcubed.net/",
+    "adfly": "@%%NAME%%, please change your autowoot program.",
 
 
     "invalidtime": "[@%%NAME%%] Invalid time specified.",
@@ -73,7 +73,7 @@
     "maximumafktimeset": "[@%%NAME%%] Maximum afk duration set to %%TIME%% minutes.",
     "afkstatusreset": "[@%%NAME%%] Reset the afk status of @%%USERNAME%%.",
     "inactivefor": "[@%%NAME%%] @%%USERNAME%% has been inactive for %%TIME%%.",
-    "autowoot": "We recommend PlugCubed for autowooting, custom room settings and much more: http://plugcubed.net/",
+    "autowoot": "[@%%NAME%%][!autowoot] Use TastyPlug to autowoot and have custom emotes, inline images and many more features! https://fungustime.pw/tastyplug/",
     "brandambassador": "A Brand Ambassador is the voice of the plug.dj users. They promote events, engage the community and share the plug.dj message around the world. For more info: http://blog.plug.dj/brand-ambassadors/",
     "bouncerplusrank": "[@%%NAME%%] You have to be manager or up to enable Bouncer+.",
     "chatcleared": "[@%%NAME%%] Cleared the chat.",
