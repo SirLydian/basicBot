@@ -1,5 +1,5 @@
 {
-
+    
     "nodatafound": "No previous data found.",
     "retrievingdata": "Retrieving previously stored data.",
     "datarestored": "Previously stored data successfully retrieved.",
@@ -72,7 +72,7 @@
     "maximumafktimeset": "[@%%NAME%%] Maximum afk duration set to %%TIME%% minutes.",
     "afkstatusreset": "[@%%NAME%%] Reset the afk status of @%%USERNAME%%.",
     "inactivefor": "[@%%NAME%%] @%%USERNAME%% has been inactive for %%TIME%%.",
-    "autowoot": "[@%%NAME%%][!autowoot] Use TastyPlug to autowoot and have custom emotes, inline images and many more features! https://fungustime.pw/tastyplug/",
+    "autowoot": "[@%%NAME%%] [!autowoot] Use TastyPlug to autowoot and have custom emotes, inline images and many more features! https://fungustime.pw/tastyplug/",
     "brandambassador": "A Brand Ambassador is the voice of the plug.dj users. They promote events, engage the community and share the plug.dj message around the world. For more info: http://blog.plug.dj/brand-ambassadors/",
     "bouncerplusrank": "[@%%NAME%%] You have to be manager or up to enable Bouncer+.",
     "chatcleared": "[@%%NAME%%] Cleared the chat.",
@@ -106,9 +106,9 @@
     "move": "[%%NAME%% used move.]",
     "mutednotime": "[@%%NAME%%] Muted @%%USERNAME%%.",
     "mutedmaxtime": "[@%%NAME%%] You can only mute for maximum %%TIME%% minutes.",
-    "mutedtime": "[@%%NAME%%][!mute] Muted @%%USERNAME%% for %%TIME%% minutes.",
-    "unmuted": "[@%%NAME%%][!unmute] Unmuted @%%USERNAME%%.",
-    "muterank": "[@%%NAME%%][!mute] You can't mute persons with an equal or higher rank than you.",
+    "mutedtime": "[@%%NAME%%] [!mute] Muted @%%USERNAME%% for %%TIME%% minutes.",
+    "unmuted": "[@%%NAME%%] [!unmute] Unmuted @%%USERNAME%%.",
+    "muterank": "[@%%NAME%%] [!mute] You can't mute persons with an equal or higher rank than you.",
     "oplist": "OP list: %%LINK%%",
     "pong": "Pong!",
     "reload": "Be right back.",
