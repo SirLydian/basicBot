@@ -33,7 +33,8 @@
 
     "warning1": "@%%NAME%%, you have been afk for %%TIME%%, please respond within 2 minutes or you will be removed.",
     "warning2": "@%%NAME%% (AFK warning!)",
-    
+    "afkremove": "",
+
 
     "caps": "@%%NAME%%, unglue your capslock button please.",
     "askskip": "@%%NAME%%, don't ask for skips.",
