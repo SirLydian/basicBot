@@ -60,6 +60,8 @@
     "autoskip": "autoskip",
     "newblacklisted": "[@%%NAME%%] This track belongs on the %%BLACKLIST%% blacklist! [ %%AUTHOR%% - %%TITLE%% - %%MID%% ]",
     "cycleguard": "cycleguard",
+    "voteskip": "voteskip",
+    "blacklist": "blacklist",
     "timeguard": "timeguard",
     "chatfilter": "chatfilter",
     "lockdown": "lockdown",
