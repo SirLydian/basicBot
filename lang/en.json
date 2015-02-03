@@ -31,7 +31,7 @@
     "valid": "[@%%NAME%%] [!dc] disconnected %%TIME%% ago and should be at position %%POSITION%%.",
 
 
-    "warning1": "@%%NAME%%, you have been afk for %%TIME%%, please respond within 2 minutes or you will be removed.",
+    "warning1": "@%%NAME%% , you have been afk for %%TIME%%, please respond within 2 minutes or you will be removed.",
     "warning2": "@%%NAME%% (AFK warning!)",
     "afkremove": "",
 
