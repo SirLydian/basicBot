@@ -54,6 +54,7 @@
     "invalidpositionspecified": "[@%%NAME%%] Invalid position specified.",
     "toggleon": "[@%%NAME%%] %%FUNCTION%% enabled.",
     "toggleoff": "[@%%NAME%%] %%FUNCTION%% disabled.",
+    "cmddeletion": "command deletion",
     "afkremoval": "AFK removal",
     "afksremoved": "AFK's removed",
     "afklimit": "AFK limit",
