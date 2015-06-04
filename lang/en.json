@@ -151,6 +151,8 @@
     "dclookuprank": "[@%%NAME%%] Only bouncers and above can do a lookup for others.",
     "emojilist": "Emoji list: %%LINK%%",
     "notinwaitlist": "@%%NAME%%, you are not on the waitlist.",
+    "youarenext": "\/me @%%NAME%%, you are DJing after this song.",
+    "youaredj": "\/me @%%NAME%%, you are currently DJing.",
     "eta": "[@%%NAME%%] [!eta] you will reach the booth in approximately %%TIME%%.",
     "facebook": "Like us on facebook: %%LINK%%",
     "starterhelp": "This image will get you started on plug: %%LINK%%",
